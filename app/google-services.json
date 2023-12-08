@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709847934861",
+    "project_id": "cestwo-skin",
+    "storage_bucket": "cestwo-skin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709847934861:android:e777b37d83a08fbbadbfc4",
+        "android_client_info": {
+          "package_name": "id.ac.binus.cestwo_skin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9ywqhAe8PmHMJXzOxhQiL332niGvNK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
